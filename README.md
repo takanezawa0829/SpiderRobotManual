@@ -1,6 +1,8 @@
 # SpiderRobotManual
-### Author
-| 担当             | 名前   |
-|------------------|--------|
-| 電気回路・制御     | たかね |
-| デザイン・設計     | ハマダ |
+
+### Project Contributors
+| Responsibility                         | Contributor |
+| -------------------------------------- | ----------- |
+| Embedded Systems & Circuit Design      | Takane      |
+| Industrial Design & Frame Architecture | Hamada      |
+
